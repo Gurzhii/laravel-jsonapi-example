@@ -15,3 +15,8 @@ composer install
 php artisan migrate
 pho artisan db:seed
 ```
+
+Check available routes
+```
+php artisan route:list
+```
