@@ -1,4 +1,4 @@
-# Laravel 5.2 json example
+# Laravel 5.2 jsonapi example
 
 Using:
 
