@@ -2,8 +2,8 @@
 
 Using:
 
-[![Laravel website](http://laravel.com/)]
-[![jsonapi website](http://jsonapi.org/)]
+[Laravel website](http://laravel.com/) and 
+[jsonapi website](http://jsonapi.org/)
 
 How to run project:
 
