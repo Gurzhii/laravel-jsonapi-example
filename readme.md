@@ -2,8 +2,8 @@
 
 Using:
 
-[Laravel website](http://laravel.com/) and 
-[jsonapi website](http://jsonapi.org/)
+[Laravel](http://laravel.com/) and 
+[jsonapi](http://jsonapi.org/)
 
 How to run project:
 
