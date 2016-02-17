@@ -11,6 +11,7 @@ How to run project:
 2. Create .env from .env.example
 3. Run commands
 ```
+composer install
 php artisan migrate
 pho artisan db:seed
 ```
